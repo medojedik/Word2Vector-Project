@@ -1,10 +1,10 @@
 # Word2Vector
 ## Introduction
 Word2Vec uses CBOW or Skip-gram method for computing vector representations of words. 
-These representations can be then used in many 
+These representations can then be used in many 
 natural language processing (NLP) applications and for further use.
 ## How does W2V work
-Word2Vec takes a *text corpu*s as input and produces the *word vectors* as output. 
+Word2Vec takes a *text corpus* as input and produces *word vectors* as output. 
 First it constructs a vocabulary from the training text data and then 
 learns vector representation for each word. The resulting word vector file can later on be used
 in many NLP and machine learning applications.
